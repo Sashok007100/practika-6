@@ -15,13 +15,21 @@ public class Student {
     public int idNumber[];
 
     public Student() {
-        idNumber = new int[6];
-        idNumber[0] = 47;
-        idNumber[1] = 99;
-        idNumber[2] = 13;
-        idNumber[3] = 7;
-        idNumber[4] = 30;
-        idNumber[5] = 100;
+        idNumber = new int[13];
+        idNumber[0] = 45;
+        idNumber[1] = 90;
+        idNumber[2] = 10;
+        idNumber[3] = 1;
+        idNumber[4] = 23;
+        idNumber[5] = 1000;
+        idNumber[6] = 3534;
+        idNumber[7] = 332;
+        idNumber[8] = 500;
+        idNumber[9] = 123;
+        idNumber[10] = 97;
+        idNumber[11] = 65;
+        idNumber[12] = 7449;
+
     }
 
     public void selectionSort() {
