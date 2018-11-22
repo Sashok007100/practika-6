@@ -8,7 +8,7 @@ public class Main {
     }
 }
 
-                                                   <h1>Student.java</h1>
+                                                     Student.java
 
 public class Student {
 
